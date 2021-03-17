@@ -16,21 +16,12 @@
 .low {
   color: rgb(121, 118, 118);
   font-size: 20px;
-  /* display: flex;
-  flex-direction: column; */
 }
 
 .high {
   color: rgb(70, 68, 68);
-  /* background-color: red; */
   font-size: 20px;
-  /* display: flex;
-  flex-direction: column; */
 }
-
-/* .day {
-  color: rgb(44, 140, 196);
-} */
 
 .highlow {
   /* border: 3px solid rgb(219, 217, 217); */
@@ -43,9 +34,6 @@
   align-items: center;
   border-radius: 10px;
   margin-bottom: 2rem;
-  /* background-color: 50% red; */
-  /* position: absolute; */
-  /* margin-bottom: 0; */
 }
 
 .weatherlogo {
@@ -58,7 +46,6 @@ h1 {
 }
 h2 {
   font-size: 3rem;
-  /* color: white; */
   color: rgb(148, 88, 48);
 }
 .location {

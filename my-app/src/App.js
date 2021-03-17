@@ -39,7 +39,6 @@ function App() {
       <div className="container">
         <h1>WELCOME BACK!</h1>
         <h2 className="location">Note: All degrees in ℃</h2>
-        {/* <h2 className="location">Choose a day to see the weather</h2> */}
         <h2>Have a nice day!</h2>
       </div>
       <div className="divWeather">{renderWeek()}</div>
